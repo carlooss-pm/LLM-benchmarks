@@ -1,4 +1,4 @@
-# LLM-benchmarks
+With the recent release of Gemini 3.0 and it's impressive benchmarks, I wanted to map out each of these to human cognitive capacities
 
 # Frontier LLM Benchmark Comparison
 
